@@ -1,1 +1,0 @@
-# Automated-Typeplate-Recognition-Using-OCR-and-AI
